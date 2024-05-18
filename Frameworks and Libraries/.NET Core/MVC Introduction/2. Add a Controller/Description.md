@@ -5,5 +5,7 @@ You see, when you first create a controller in ASP.NET Core. The Controller has 
 
 Now, in the .NET documentation, they don't tell you this right now, but they tell you to replace the content of this "index" method with some String values. Also, the returning value of the method itself has to change to string.
 
-Changes:
-The only thing you have to know, if that have I created this "HelloWorldController" inside of "Controllers" folder. So, I also think that, I shouldn't submit all the project just for this, so I thought that maybe, submitting this single cs file it works just fine.
+## Changes:
+The only thing you have to know, is that have I created this "HelloWorldController" inside of "Controllers" folder.
+
+So, I also think that I shouldn't submit all the project just for this, so I thought that maybe submitting this single cs file it works just fine.
