@@ -9,6 +9,9 @@ namespace MvcMovie.Controllers
         /*
          * So now here we have the third step, in which we're going to modify
          * this controller in order to use a View (which we're going to create)
+         * and then, we could just navigate to the HelloWorld page and actually see something
+         * instead of a plain text in a white or black background.
+         * (Although, to be fair, the view is also just text on a white background...)
          * 
          * .NET Doc: View templates are created using Razor. Razor-based view templates:
          *  - Have a .cshtml file extension.
