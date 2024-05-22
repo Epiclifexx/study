@@ -8,7 +8,7 @@ These name-less functions are usually used to implement certain methods from cer
 
 Now, of course I could just go now, and try to do some code with lambdas, but, another thing that could be helpful is to get to know first what "Functional Programming" is.
 
-Because, yo see, one of the purposes or maybe the solo purpose (I don't know yet) of using lambdas is to be able to code using some kind of functional programming approach. Or maybe you just need a single implementation to be done.
+Because, you see, one of the purposes or maybe the solo purpose (I don't know yet) of using lambdas is to be able to code using some kind of functional programming approach. Or maybe you just need a single implementation to be done.
 
 In any case...
 
