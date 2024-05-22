@@ -32,6 +32,6 @@ The order of reading is as follows:
 3. LAMBDA APPROACH WITH PARAMETERS
     1. Printable (Interface)
     2. Main (Main class with the Main method)
-
+4. OTHER LAMBDA EXAMPLES WITH DIFFERENT INTERFACES
 
 
