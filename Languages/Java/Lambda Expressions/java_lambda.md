@@ -2,7 +2,7 @@
 First of all, to understand what lambdas are and how they work, maybe I should first understand some basic concepts before diving in.
 
 ### Lambdas are meant to be used with Interfaces
-From what I'm researching, a lambda function or expressión is like some sort of anonymous function.
+From what I'm researching, a lambda function or expression is like some sort of anonymous function.
 
 These name-less functions are usually used to implement certain methods from certain Interfaces.
 
@@ -16,13 +16,20 @@ Lambdas are usually used with interfaces like "Predicate", "BiFunction", or obje
 
 So maybe just learning the basics of what Functional Programming is, learning concepts like "First-Class Citizens" and "Concurrency" could be a good idea.
 
-### Order of java files in the examples
-In this folder, there's two sub-folders. One does not implement lambda functions. It help us to compare. The order of reading is:
+### Reading Order of java files in these examples
+In this folder, there's two sub-folders. One does not implement lambda functions and the orther does.
+
+It help us to compare.
+
+The order of reading is as follows:
 1. NON-LAMBDA APPROACH:
     1. Printable (Interface)
     2. Cat (Class)
     3. Main (Main class with the Main method)
 2. LAMBDA APPROACH:
+    1. Printable (Interface)
+    2. Main (Main class with the Main method)
+3. LAMBDA APPROACH WITH PARAMETERS
     1. Printable (Interface)
     2. Main (Main class with the Main method)
 
