@@ -42,10 +42,9 @@ public class ListNode {
         }
 
         // Adding and Removing Nodes
-
-        /* To iterate over a linked list, we start from the head node (the first
-         *  ListNode allows us to add and remove nodes at different positions in
-         * the linked list) By adjusting the next references, we can insert or
+        
+        /*  ListNode allows us to add and remove nodes at different positions in
+         * the linked list by adjusting the next references, we can insert or
          * delete nodes efficiently. These operations are useful for dynamic data
          * structures that require frequent modifications.
         */
