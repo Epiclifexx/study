@@ -5,7 +5,7 @@ I'm following this tutorial from the LinkedIn Learning course which is called "*
 ## Moving the SQL files to Resources
 So, assuming we already unzipped the project and opened it with an IDE like IntelliJ, then, the next step should be to move the two SQL files inside the bin folder (**data.sql** & **schema.sql**) to the src>main>**resources** folder.
 
-I don't really understand why at the moment, but I assume this SQL files should be there in order for Spring to notice them as "resources". I mean, is about getting to work with an embedded database.
+I don't really understand why at the moment, but I assume these SQL files should be there in order for Spring to notice them as "resources". I mean, is about getting to work with an embedded database.
 
 The SQL files contains the creation of some tables and the insertion of data in them (We'll use this later on the course).
 ## Adding Spring Boot Starter Data JPA & H2 Database dependencies in the pom.xml
