@@ -25,9 +25,9 @@ We go to the section of **dependencies** and there, we will add these two:
 
 And then, we should import these resources by re-loading Maven so we can have the changes applied.
 
-Now, we're almost done to the point we can actually use this database. But there's some values we should put in the **application.context**.
-## Changing some values in the Application Context
-Now, we go to the **application.context** file inside resources and define this values:
+Now, we're almost done to the point we can actually use this database. But there's some values we should put in the **application.properties**.
+## Changing some values in the Application Properties
+Now, we go to the **application.properties** file inside resources and define this values:
 
 ```
 # Properties changes to embed a Database into our application:
