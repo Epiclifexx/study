@@ -1,7 +1,7 @@
 # Embedded databases with Spring Boot
 We're now going to configure an embedded database that we can use throughout this course. 
 ## Open the Project
-I'm following this tutorial from the LinkedIn Learning course which is called "**Learning Spring with Spring Boot**" by "**Frank P Moley III**", and for this specific chapter, we need a project I putted inside a rar here in the same folder. Is called "**learning-spring**".
+I'm following this tutorial from the LinkedIn Learning course which is called "**Learning Spring with Spring Boot**" by "**Frank P Moley III**", and for this specific chapter, we need a project I putted inside here in the same folder. Is called "**learning-spring**".
 ## Moving the SQL files to Resources
 So, assuming we already unzipped the project and opened it with an IDE like IntelliJ, then, the next step should be to move the two SQL files inside the bin folder (**data.sql** & **schema.sql**) to the src>main>**resources** folder.
 
